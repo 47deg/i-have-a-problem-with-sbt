@@ -31,3 +31,5 @@ During the "problem solving" session, I will go through the submitted PRs in ord
 As everything will happen on my machine, which will also be running all the streaming stuff in parallel, please avoid submitting problems such as "my computer crashes everytime I load this project", otherwise everybody will have an unpleasant time. 
 
 Also, it should go without saying, but **it is your responsiblity to make sure that nothing confidential is added to this public repository**.
+
+Finally, a disclaimer: I may not be able to solve your problem in a timely manner, mostly because I'm not an almighty sbt wizard but also because I'd prefer to go through as many problems as possible. But in any case, I'll do my best as to give you as many hints as possible toward solving it. After all, the journey matters more than the destination.
